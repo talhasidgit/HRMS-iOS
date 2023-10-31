@@ -1,6 +1,6 @@
 //
 //  SettingsVC.swift
-//  MyExD
+//  
 //
 //  Created by Ahmed on 12/01/2022.
 //

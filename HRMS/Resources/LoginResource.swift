@@ -1,6 +1,6 @@
 //
 //  LoginResource.swift
-//  MyExD
+//  
 //
 //  Created by Ahmed on 11/01/2022.
 //

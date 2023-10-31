@@ -116,7 +116,7 @@ class CommonMethods: NSObject {
     
     //MARK: - Show Alert
     static   func  showAlert(msg: String)  {
-        let alert = UIAlertController(title: "MyExD", message: msg, preferredStyle: UIAlertController.Style.alert)
+        let alert = UIAlertController(title: "", message: msg, preferredStyle: UIAlertController.Style.alert)
         alert.addAction(UIAlertAction(title: "Ok", style: UIAlertAction.Style.default, handler: nil))//
         UIApplication.topViewController()?.present(alert, animated: true, completion: nil)
         
